@@ -1,0 +1,7 @@
+name=VINAY PUNDIR
+college=hbtu
+mob=7253833587
+course=B.tech
+year=first
+email=vinayrajput730@gmail.com
+pass=RANA

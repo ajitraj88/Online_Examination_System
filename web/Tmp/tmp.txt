@@ -1,0 +1,7 @@
+name=
+college=
+mob=
+course=B.tech
+year=first
+email=vinayrajput735@gmail.com
+pass=HBTI
